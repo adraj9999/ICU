@@ -369,8 +369,11 @@ st.markdown("""
 ### ✨ Dashboard Highlights (Standout Features)
 
  ->*Auto-comparative ML Benchmarking*: Instantly compare LightGBM & XGBoost models.
+ 
  ->*Data Upload & Dynamic Forecasting*: Upload any compatible dataset or model — full flexibility.
+ 
  ->*Clustering + EDA*: Advanced segmentation & visual exploration tools for non-data-savvy users.
+ 
  ->*Multi-month Time Forecasting*: View regional ICU needs up to 18 months — ideal for policy cycles.
 
 ---
